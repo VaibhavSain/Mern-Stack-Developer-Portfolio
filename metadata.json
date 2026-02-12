@@ -1,0 +1,8 @@
+
+{
+  "name": "Full Stack Dev Portfolio & AI Assistant",
+  "description": "A premium personal portfolio for a full-stack developer featuring a live AI chat assistant to answer recruiter questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
